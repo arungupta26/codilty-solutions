@@ -1,6 +1,6 @@
-package com.test.codility.lessons.binarygap;
+package com.test.codility.lessons;
 
-public class Solution {
+public class BinaryGap {
 
     public int solution(int N) {
 
@@ -29,7 +29,7 @@ public class Solution {
     public static void main(String[] args) {
 
 
-        Solution s = new Solution();
+        BinaryGap s = new BinaryGap();
         System.out.println(s.solution(1041));
     }
 }
